@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aram Gholikimilan</h1>
-<h3 align="center">A passionate Computer Science student from London</h3>
+<h3 align="center">A passionate Artificial Intelligence student from London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aram-milan&label=Profile%20views&color=0e75b6&style=flat" alt="aram-milan" /> </p>
 
